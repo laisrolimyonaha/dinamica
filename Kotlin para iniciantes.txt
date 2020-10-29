@@ -7,3 +7,15 @@ O Kotlin é muito intuitivo e fácil de aprender para desenvolvedores Java. A ma
 Se você é um programador Java experiente, você será capaz de aprender o Kotlin de forma muito fácil, caso contrário, será como aprender qualquer outra linguagem.
 
 Algumas caracteristicas interessantes da linguagem.
+
+Pequena sintaxe de kotlin 
+  fun main(){
+      val listaAlunos = arrayListOf("João","Maria","Pedro","Marta");
+  }
+
+
+
+
+
+
+
