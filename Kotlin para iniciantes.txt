@@ -1,0 +1,9 @@
+O Kotlin é uma linguagem estaticamente tipada, desenvolvida pela JetBrains, cuja sintaxe é mais expressiva e concisa do que a do Java. Com recursos como expressões lambda, sobrecarga de operadores, templates de strings e muito mais.
+
+Como o Java e o Kotlin são altamente interoperáveis, elas podem ser usadas juntas no mesmo projeto. Inclusive, o Kotlin tem como base, e é executado na Maquina Virtual do prório Java.
+
+O Kotlin é muito intuitivo e fácil de aprender para desenvolvedores Java. A maioria das partes da linguagem são muito semelhantes ao que já sabemos, e as diferenças nos conceitos básicos podem ser aprendidas rapidamente.
+
+Se você é um programador Java experiente, você será capaz de aprender o Kotlin de forma muito fácil, caso contrário, será como aprender qualquer outra linguagem.
+
+Algumas caracteristicas interessantes da linguagem.
