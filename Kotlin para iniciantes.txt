@@ -6,6 +6,7 @@ O Kotlin é muito intuitivo e fácil de aprender para desenvolvedores Java. A ma
 
 Se você é um programador Java experiente, você será capaz de aprender o Kotlin de forma muito fácil, caso contrário, será como aprender qualquer outra linguagem.
 
+
 Algumas caracteristicas interessantes da linguagem.
 
 Pequena sintaxe de kotlin 
@@ -13,9 +14,21 @@ Pequena sintaxe de kotlin
       val listaAlunos = arrayListOf("João","Maria","Pedro","Marta");
   }
 
+****Algumas caracteristicas interessantes da linguagem.****
 
+#Expressiva: Esta é uma das suas qualidades mais importantes, você pode escrever mais com muito menos código.
 
+#Segura: O Kotlin tem seguro contra valores nulos, o que significa pe validado situações de valores nulos em tempo de compilação, para evitar exceções em tempo de execução.
 
+#Funcional: O Kotlin é uma linguagem orientada a objetos, não uma linguagem funcional pura. No entanto, como muitas outras linguagens modernas, ela usa muitos conceitos funcionais, como expressões lambda, para resolver alguns problemas de uma maneira muito mais fácil.
 
+Outra característica interessante é a maneira como lida com coleções.
 
+#Funções de Extensão: Isso significa que podemos estender qualquer classe e adicionar novos recursos, mesmo se não tivermos acesso ao código-fonte.
 
+#Interoperável: Você pode continuar usando a maioria das bibliotecas e códigos escritos em Java, porque a interoperabilidade entre elas é excelente. É até possível criar projetos mistos, com os arquivos Kotlin e Java coexistindo.
+
+****Kotlin vs Java****
+
+Pode ser empolgante, mas também um pouco assustador para qualquer programador trocar de uma linguagem que você já tem uma certa experiência, por algo totalmente novo.
+Nas comunidades de desenvolvimento Android, o Kotlin está sendo comparado ao Java da mesma maneira que o Swift foi comparado ao Objective-C.
