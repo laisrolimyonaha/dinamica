@@ -1,4 +1,4 @@
-O Kotlin é uma linguagem estaticamente tipada, desenvolvida pela JetBrains, cuja sintaxe é mais expressiva e concisa do que a do Java. Com recursos como expressões lambda, sobrecarga de operadores, templates de strings e muito mais.
+﻿O Kotlin é uma linguagem estaticamente tipada, desenvolvida pela JetBrains, cuja sintaxe é mais expressiva e concisa do que a do Java. Com recursos como expressões lambda, sobrecarga de operadores, templates de strings e muito mais.
 
 Como o Java e o Kotlin são altamente interoperáveis, elas podem ser usadas juntas no mesmo projeto. Inclusive, o Kotlin tem como base, e é executado na Maquina Virtual do prório Java.
 
@@ -32,3 +32,5 @@ Outra característica interessante é a maneira como lida com coleções.
 
 Pode ser empolgante, mas também um pouco assustador para qualquer programador trocar de uma linguagem que você já tem uma certa experiência, por algo totalmente novo.
 Nas comunidades de desenvolvimento Android, o Kotlin está sendo comparado ao Java da mesma maneira que o Swift foi comparado ao Objective-C.
+
+"minha contribuição migué"
